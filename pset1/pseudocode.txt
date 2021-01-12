@@ -1,0 +1,8 @@
+ask the user to enter a number as the height of the pyramid.
+if the number is negative show a message
+   go to step one
+Else if the number is 0
+   go to step one
+Else if the number is greater than grater then 0 and less than 9
+   iterate from 1 through height
+   eg. if 2 iteration, print 2 hashes and move to new line
